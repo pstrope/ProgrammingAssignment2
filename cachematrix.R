@@ -1,4 +1,4 @@
-## The <<- operator can be used to assign a value to an object in an environment that is different from the current environment. 
+##  The <<- operator can be used to assign a value to an object in an environment that is different from the current environment. 
 ## The functions below are used to create a special object that stores a matrix and caches its inverse.
 ## Creating a cache saves time so the inverse (of the same matrix) does not need to be calculated many times in the program.  
 ## 
